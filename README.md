@@ -1,4 +1,4 @@
-# Horiseon Marketing Management 
+# Horiseon Digital Marketing  
 
 ## Horiseon is a website which helps define the basics of marketing. It mentions Search Engine Optimization, Online Reputation Management, and Social Media Marketing. Also, it talks on how to generate leads, brand awareness, and cost management. 
 
@@ -9,6 +9,6 @@
 
 Link to the GIT repository: https://github.com/mibrahim234/Challenge-1
 
-Link to the Live Page: 
+Link to the Live Page: https://mibrahim234.github.io/Challenge-1/
 
 ## Credits: Mohammad Ibrahim
